@@ -51,6 +51,23 @@
         "xutility": "cpp",
         "fstream": "cpp",
         "sstream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "thread": "cpp",
+        "ratio": "cpp",
+        "stop_token": "cpp",
+        "vector": "cpp",
+        "mutex": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "optional": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "algorithm": "cpp",
+        "coroutine": "cpp",
+        "resumable": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp"
     }
 }
